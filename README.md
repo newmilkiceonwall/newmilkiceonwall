@@ -6,7 +6,7 @@
 
 # TODO 2022
 - [ ] :memo:Add more info in this file.
-- [ ] :books:Finish reading [*Beginning Game Development with Godot*](https://www.amazon.com/Beginning-Game-Development-Godot-Platform/dp/1484274547).
+- [x] :books:Finish reading [*Beginning Game Development with Godot*](https://www.amazon.com/Beginning-Game-Development-Godot-Platform/dp/1484274547).
 - [ ] :page_facing_up:Read papers given by doctoral students, and choose a research direction.
 - [x] :memo:Summarize my tele-internship at [Uniontech](https://www.uniontech.com/).
 - [ ] English support for my blog.
