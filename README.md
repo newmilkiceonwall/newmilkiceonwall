@@ -5,12 +5,12 @@
 - 📫 How to reach me [Email](mailto:newmilkiceonewall@outlook.com)
 
 # TODO 2022
-- [ ] :memo:Add more info in this file.
+- [x] :memo:Add more info in this file.
 - [x] :books:Finish reading [*Beginning Game Development with Godot*](https://www.amazon.com/Beginning-Game-Development-Godot-Platform/dp/1484274547).
-- [ ] :page_facing_up:Read papers given by doctoral students, and choose a research direction.
+- [x] :page_facing_up:Read papers given by doctoral students, and choose a research direction.
 - [x] :memo:Summarize my tele-internship at [Uniontech](https://www.uniontech.com/).
 - [ ] English support for my blog.
-- [ ] :herb:Plant a plant
+- [x] :herb:Plant a plant (on going)
 
 # Visit [my blog](https://newmilkiceonwall.github.io/) for more content.
 <!---
