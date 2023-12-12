@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @newmilkiceonwall, a postgraduate student majoring computer science.
-- 👀 I’m interested in Python, CI/CD and always happy to reach other tech stack.
-- 🌱 I’m currently learning Godot.
-- 💞️ I’m looking to collaborate on nothing for now. If you need help or have something (new) to share, don't hesitate about emailing me.
+- 👀 I’m interested in Python, CI/CD and always happy to reach other tech stacks.
+- 😫 I’m currently busy in academis through I've found I don't like it.
 - 📫 How to reach me [Email](mailto:newmilkiceonewall@outlook.com)
+- 💻 Visit [my blog](https://newmilkiceonwall.github.io/) for more content.
+
+# TODO 2023
 
 # TODO 2022
 - [x] :memo:Add more info in this file.
@@ -11,8 +13,6 @@
 - [x] :memo:Summarize my tele-internship at [Uniontech](https://www.uniontech.com/).
 - [x] English support for my blog.
 - [x] :herb:Plant a plant (on going)
-
-# Visit [my blog](https://newmilkiceonwall.github.io/) for more content.
 <!---
 newmilkiceonwall/newmilkiceonwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
