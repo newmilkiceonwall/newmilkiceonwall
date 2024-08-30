@@ -1,3 +1,6 @@
+# 如果你是面试官，请点击并查看[我常用的Github账户](https://github.com/baozidai)
+
+
 - 👋 Hi, I’m @newmilkiceonwall, a postgraduate student majoring computer science.
 - 👀 I’m interested in Python, CI/CD and always happy to reach other tech stacks.
 - 😫 I’m currently busy in academis through I've found I don't like it.
