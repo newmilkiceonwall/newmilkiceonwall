@@ -1,4 +1,4 @@
-# 如果你是面试官，请点击并查看[我常用的Github账户](https://github.com/baozidai)
+# newmilkiceonwall
 
 
 - 👋 Hi, I’m @newmilkiceonwall, a postgraduate student majoring computer science.
